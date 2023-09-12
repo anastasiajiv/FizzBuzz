@@ -5,7 +5,7 @@ public class Multiplies {
             boolean multiple_of_3 = i % 3 == 0;
             boolean multiple_of_5 = i % 5 == 0;
 
-            if (multiple_of_3 || multiple_of_5) {
+            if ( multiple_of_3 || multiple_of_5) {
                 multiplies+=1;
             }
 
